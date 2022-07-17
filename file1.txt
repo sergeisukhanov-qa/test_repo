@@ -1,7 +1,5 @@
 update_1
 
-testing line
-
 untesting line
 
 commit test
@@ -11,3 +9,4 @@ commit test
 Add line
 
 new branch line
+new line for gui
